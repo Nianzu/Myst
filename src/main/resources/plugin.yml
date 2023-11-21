@@ -1,0 +1,4 @@
+name: squee
+version: '${version}'
+main: squee.Squee
+api-version: '1.20'
